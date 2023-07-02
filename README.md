@@ -2,7 +2,7 @@
 
 ---
 
-An unofficial **Minecraft for Windows 10** launcher that enables similar features from the **Minecraft Java Edition Launcher**.
+An unofficial **Minecraft for Windows 10 & Windows 11** launcher that enables similar features from the **Minecraft Java Edition Launcher(From Mojang)**.
 
 [![Website](https://img.shields.io/github/v/tag/BedrockLauncher/BedrockLauncher.GitHub.io?color=blue&label=Visit%20Official%20Website&logo=github&style=for-the-badge)](https://bedrocklauncher.github.io/)
 [![Download](https://img.shields.io/github/v/release/BedrockLauncher/BedrockLauncher?color=brightgreen&label=Download%20Installer&logo=windows&style=for-the-badge)](https://github.com/BedrockLauncher/BedrockLauncher.Installer/releases/latest/download/BedrockLauncher.Installer.exe)
@@ -34,3 +34,7 @@ Have a look around the launcher before you download on the official website:
 ## Credits
 It's hard to keep the credits page updated on GitHub, so visit the credits page on the official website:
 - [Credits page](https://bedrocklauncher.github.io/credits)
+
+## Let's Start on Minecraft!
+We can play Minecraft Bedrock Edition All versions.
+-[Minecraft Offical Website](https://minecraft.net)
