@@ -2,7 +2,7 @@
 
 ---
 
-An unofficial **Minecraft for Windows 10** launcher that enables similar features from the **Minecraft Java Edition Launcher**.
+An unofficial **Minecraft for Windows 10 & Windows 11** launcher that enables similar features from the **Minecraft Java Edition Launcher(From mojang)**.
 
 [![Website](https://img.shields.io/github/v/tag/BedrockLauncher/BedrockLauncher.GitHub.io?color=blue&label=Visit%20Official%20Website&logo=github&style=for-the-badge)](https://bedrocklauncher.github.io/)
 [![Download Release](https://img.shields.io/github/v/release/BedrockLauncher/BedrockLauncher?label=Download%20Release&logo=windows&sort=date&style=for-the-badge)](https://github.com/BedrockLauncher/BedrockLauncher/releases/latest/download/release.zip)
